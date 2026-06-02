@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798520584509",
+    "firebase_url": "https://robotic-arm-56dc5-default-rtdb.firebaseio.com",
+    "project_id": "robotic-arm-56dc5",
+    "storage_bucket": "robotic-arm-56dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798520584509:android:acffd3523b593c656d7d54",
+        "android_client_info": {
+          "package_name": "com.example.armappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798520584509-qn2rp23sm4gdogpd9hca6evoo32i00pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLM3PS0ApFXWuxt3kwH6g9PKV8MyCWe5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798520584509-qn2rp23sm4gdogpd9hca6evoo32i00pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
